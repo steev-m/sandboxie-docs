@@ -12,9 +12,9 @@ This Getting Started tutorial will show you:
   * How to delete the sandbox
 
 
-Or skip ahead to [Getting Started Part Six](GettingStartedPartSix.md) which discusses a few final points.
+Or skip ahead to [Getting Started Part Six](GettingStartedPartSix.md), which discusses a few final points.
 
-You can also review the [External Tutorials](ExternalTutorials.md) page for more links to tutorials about Sandboxie, some in languages other than English, others are in video form rather than text.
+The [External Tutorials](ExternalTutorials.md) page includes additional links to text and video tutorials about Sandboxie, some in languages other than English.
 
 * * *
 
@@ -23,14 +23,14 @@ You can also review the [External Tutorials](ExternalTutorials.md) page for more
 Sandboxie Classic is operated through the [Sandboxie Control](SandboxieControl.md) program. This program adds the yellow Sandboxie icon to the system notification ("tray") area of your taskbar:
 ![](../Media/TrayIconEmpty.png)
 
-If [Sandboxie Control](SandboxieControl.md) is not already active, you can find it and launch it from the Sandboxie program group in your Windows Start menu:
+If [Sandboxie Control](SandboxieControl.md) is not already active, you can launch it from the Sandboxie program group in your Windows Start menu:
 
 ![](../Media/StartMenuStartControlVista.png)
 
 
-When active, you can use the Sandboxie tray icon to hide and show the main window of [Sandboxie Control](SandboxieControl.md), by double-clicking the icon. Or, you can right-click the icon and select the first command, which alternates between _Hide Window_ and _Show Window_.
+When active, double-click the Sandboxie tray icon to hide and show the main window of [Sandboxie Control](SandboxieControl.md). You can also right-click the icon and select the first command, which alternates between _Hide Window_ and _Show Window_.
 
-For this tutorial, make sure the main window of [Sandboxie Control](SandboxieControl.md) is visible.
+For this tutorial, make sure the main [Sandboxie Control](SandboxieControl.md) window is visible.
 
 * * *
 
@@ -38,4 +38,4 @@ You should view this tutorial in a sandboxed Web browser. To do that, use the _G
 
 ![](../Media/OpenGettingStarted.png)
 
-The tutorial continues in [Getting Started Part Two](GettingStartedPartTwo.md).
+This tutorial continues in [Getting Started Part Two](GettingStartedPartTwo.md).
